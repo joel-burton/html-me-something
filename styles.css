@@ -1,5 +1,5 @@
 #Angels_Landing {
-    background-color: #4abde8;
+    background-color: #84dded;
 }
 
 #Canyoneering {
@@ -14,6 +14,18 @@
     text-align: center;
 }
 
+/*#left {
+    float: left;
+    max-width: 40%;
+    height: auto;
+}
+
+#right {
+    float: right;
+    max-width: 40%;
+    height: auto;
+}*/
+
 body {
     background-color: #f4a742;
 }
@@ -21,6 +33,15 @@ body {
 
 header {
     /*background-color: #f5ceff;*/
+}
+
+.banner {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding-left: 1em;
 }
 
 h1 {
